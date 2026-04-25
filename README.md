@@ -1,281 +1,254 @@
-<!-- Header -->
+<h1 align="center">Hi 👋, I am Md Asaduzzaman</h1>
+
+<p align="center">
+  I am currently a <b>seeking</b> a <b>new opportunity.</b><br/>
+  I am a <b>Competitive Programmer</b> &amp; <b>Full-Stack Developer</b> passionate about clean architecture and problem solving.<br/>
+  Besides, I am studying <b>Computer Science &amp; Engineering</b> at <b>American International University-Bangladesh (AIUB)</b>.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iasaduzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iasaduzzaman?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/iasaduzzaman?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+</p>
+
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=iasaduzzaman&show_icons=true&theme=calm&hide_border=true&count_private=true" width="40%" /> 
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iasaduzzaman&theme=calm" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iasaduzzaman&theme=calm"  />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iasaduzzaman&theme=calm"  />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+profile...;Loading+Md+Asaduzzaman...;Software+Engineer+%7C+Competitive+Programmer;Building+Doyat+%7C+Solving+Problems+%7C+Writing+Code;" alt="Typing SVG" />
+
+<a href="https://your-cv-link.com">
+  <img src="https://img.shields.io/badge/My%20CV-Asaduzzaman-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a> 
+
+<a href="https://medium.com/@md.asaduzzamanasif1411">
+  <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
 
-```
-█████████████████████████████████████████████████████████████████████
-█                                                                   █
-█   ███╗   ███╗██████╗      █████╗ ███████╗ █████╗ ██████╗         █
-█   ████╗ ████║██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔══██╗        █
-█   ██╔████╔██║██║  ██║    ███████║███████╗███████║██║  ██║         █
-█   ██║╚██╔╝██║██║  ██║    ██╔══██║╚════██║██╔══██║██║  ██║         █
-█   ██║ ╚═╝ ██║██████╔╝    ██║  ██║███████║██║  ██║██████╔╝         █
-█   ╚═╝     ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝         █
-█                                                                   █
-█          Software Engineer  ·  CP Enthusiast  ·  Builder          █
-█████████████████████████████████████████████████████████████████████
-```
 
-<div align="center">
+<!-- ===================== SOCIAL ICONS ===================== -->
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/─────%20LINKEDIN%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzasad)
-[![Gmail](https://img.shields.io/badge/─────%20GMAIL%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zasad.cse@gmail.com)
-[![GitHub](https://img.shields.io/badge/─────%20GITHUB%20─────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iasaduzzaman)
-[![Codeforces](https://img.shields.io/badge/─────%20CODEFORCES%20─────-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Asaduzzaman)
+<a href="mailto:zasad.cse@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+</a>
 
-</div>
+<a href="https://fb.com/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" />
+</a>
+
+<a href="https://www.linkedin.com/in/mdzasad/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+</a>
+
+<a href="https://medium.com/@md.asaduzzamanasif1411">
+  <img src="https://skillicons.dev/icons?i=devto" height="32" />
+</a>
+
+<a href="https://twitter.com/">
+  <img src="https://skillicons.dev/icons?i=twitter" height="32" />
+</a>
+
+<a href="https://codeforces.com/profile/_Asaduzzaman_">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
+</a>
+
+<a href="https://leetcode.com/u/Asad224/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
+</a>
+
+<a href="https://www.codechef.com/users/asaduzzaman_12">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg"  height="32" />
+</a>
+</p>
+
 
 ---
+<!-- Typewriting Introduction -->
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=iasaduzzaman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=870&lines=I'm+a+Computer+Science+And+Engineering+Student;I+am+also+passionate+about+software+development+;Love+to+build+software+solution)](https://git.io/typing-svg)
 
-### 📡 `system.info`
 
-```yaml
-name:      "Md Asaduzzaman"
-alias:     "iasaduzzaman"
-location:  "Dhaka, Bangladesh 🇧🇩"
-degree:    "BSc CSE @ AIUB (2022–2026)"
-currently:
-  - working_on: "Doyat — Bengali AI Writing Assistant"
-  - writing:    "ML Book on Bank Customer Behavior"
-  - grinding:   "DSA & Competitive Programming"
-interests:
-  - Full-Stack Engineering
-  - Machine Learning
-  - Competitive Programming
-  - Open Source
-```
+- 🎓 Final year **BSc CSE** student at **AIUB**, graduating July 2026
+- 🌱 I’m currently exploring in depth full stack web development
+- 💻 **600+ problems** solved across competitive proframing platforms
+- 🥅 2026 Goals: Exploring **Data** & **Machine Learning** with curiosity
+- ⚡ Interests: How will AI change software engineering? Let's find out together 😄
 
 <br clear="right"/>
 
 ---
 
-### ⚡ `experience.log`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
-```diff
-+ [Jan 2026 – Mar 2026] Software Engineer (Part-time) @ FastFlowUp (Remote)
-  
-  → Engineered "Doyat" — a smart Bengali writing assistant
-  → Real-time grammar suggestions with full-stack implementation
-  → Delivered end-to-end features across frontend & backend systems
-```
+### 🏅 Competitive Programming
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
+
+### 🌐 Backend Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🤖 Machine Learning & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
 ---
 
-### 🧰 `tech.stack`
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iasaduzzaman&theme=calm&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iasaduzzaman&theme=tokyo-day&hide_border=true&area=true" width="70%" />
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
 
 <table>
-<tr><td valign="top" width="25%">
-
-**⌨️ Languages**
-```
-C#         ████████░░
-PHP        ███████░░░
-C++        ███████░░░
-JavaScript ██████░░░░
-SQL        ██████░░░░
-R          █████░░░░░
-Bash       ████░░░░░░
-```
-
-</td><td valign="top" width="25%">
-
-**🏗️ Frameworks**
-```
-.NET Core    ████████
-ASP.NET MVC  ████████
-WebAPI       ███████░
-Bootstrap    ███████░
-STL (C++)    ██████░░
-```
-
-</td><td valign="top" width="25%">
-
-**🛢️ Data & Tools**
-```
-MySQL      ████████
-SQLite     ██████░░
-Oracle     █████░░░
-Git/GitHub ████████
-Postman    ███████░
-```
-
-</td><td valign="top" width="25%">
-
-**🧠 Concepts**
-```
-SOLID       ████████
-Auth/Authz  ███████░
-REST APIs   ████████
-OOP/DP      ███████░
-DSA         ████████
-ML/Cluster  █████░░░
-```
-
-</td></tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/><br/>
+      <b>Handle:</b> _Asaduzzaman_<br/>
+      <b>Max Rating:</b> ⭐ 1114<br/>
+      🏅 Top 25%
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/><br/>
+      <b>Handle:</b> Asaduzzaman12<br/>
+      <b>Max Rating:</b> ⭐ 1327<br/>
+      🏅 Top 25%
+    </td>
+    <td align="center" width="220">
+      🧩 <b>600+</b> Problems Solved<br/>
+      🎯 <b>40+</b> Contests Participated<br/>
+      🌍 Meta Hacker Cup <b>2023, 2024, 2025</b>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 ---
 
-### 🗂️ `projects[]`
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
-<tr>
-<td width="50%">
-
-**🐾 Pet Adoption API**
-> *ASP.NET · Postman · Bootstrap*
-
-Robust backend with DTO mapping, SOLID architecture, and secure JWT-based auth & authorization system.
-
-</td>
-<td width="50%">
-
-**📝 Blog Platform**
-> *ASP.NET Core MVC · Bootstrap*
-
-Full-featured blog with role-based access, CRUD, likes, comments & Code-First DB migrations.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧠 Online Quiz System**
-> *PHP · MySQL · Bootstrap*
-
-Academic quiz platform with auto-grading, timed exams, randomized delivery and **cheat detection** (tab-switch tracking, fullscreen enforcement, copy/paste prevention).
-
-</td>
-<td width="50%">
-
-**📊 Amazon Review Predictor**
-> *R · TF-IDF · K-Means · DBSCAN*
-
-Unsupervised NLP clustering on web-scraped Amazon reviews. TF-IDF vectorization + K-Means, Hierarchical & DBSCAN clustering.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚰️ Graveyard Management System**
-> *SQL · Oracle*
-
-Relational DB system for grave records, ownership tracking, maintenance scheduling & optimized SQL reporting queries.
-
-</td>
-<td width="50%">
-
-**🖊️ Doyat — Bengali Writing Assistant**
-> *NLP · Full-Stack · FastFlowUp*
-
-Smart Bengali AI writing assistant with real-time grammar suggestions. Delivered end-to-end as part-time SE role.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐾 Pet Adoption API</h3>
+      <p>Production-grade RESTful backend built with <b>SOLID principles</b> and DTO mapping. Secure login with full auth & authorization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Blog Website</h3>
+      <p>Full-featured blogging platform with role-based access, CRUD, likes & comments using a <b>code-first</b> database approach.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 Online Quiz System</h3>
+      <p>Multi-role quiz platform with timed exams, auto-grading & <b>cheat detection</b> — tab-switch tracking, copy-paste prevention.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Amazon Review Predictor</h3>
+      <p>NLP + ML pipeline using <b>K-Means, DBSCAN & TF-IDF</b> to discover natural groupings in product reviews.</p>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Scraping-FF6C37?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TF--IDF-blueviolet?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
+</div>
+
 ---
 
-### 🏆 `competitions.results`
+## 📘 Publications
 
 <div align="center">
 
-| # | Contest | Result | Team |
-|---|---------|--------|------|
-| 🥇 | ICPC Dhaka Regional 2025 | **469 / 1800+** `(Top 20%)` | AIUBEntropy |
-| 🥈 | ICPC Dhaka Regional 2024 | **723 / 2400+** `(Top 20%)` | AIUBBugBusters |
-| 🏅 | SRBD Code Contest 2025 R1 | **350 / 1140+** `(Top 20%)` | — |
-| 🎓 | Intra AIUB Contest 2024 | **28 / 200+** `(Top 15%)` | — |
-| 🌍 | Meta Hacker Cup | Participated 2023, 2024, 2025 | — |
+> 📖 **A Machine Learning Approach to Profiling and Predicting Bank Customer Behavior**
+>
+> Book · Expected 2026 &nbsp;|&nbsp; `Python` `Scikit-Learn` `TensorFlow` `Machine Learning`
 
 </div>
 
 ---
 
-### 🧩 `problem_solving.stats`
-
 <div align="center">
 
-```
-╔══════════════════════════════╦══════════════════════════════╗
-║  🟦 CODEFORCES               ║  🟨 CODECHEF                 ║
-║  Handle  : Asaduzzaman       ║  Handle  : Asaduzzaman12     ║
-║  Rating  : 1114 (Peak)       ║  Rating  : 1327 (Peak)       ║
-║  Rank    : Top 25%           ║  Rank    : Top 25%           ║
-╚══════════════════════════════╩══════════════════════════════╝
+<b>Donate if you wish to support ❤️</b>
 
-          ✅ 100+ Problems Solved  |  🏁 40+ Contests Entered
-```
-
-</div>
-
----
-
-### 📈 `activity.graph`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iasaduzzaman&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-### 📊 `language.breakdown`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasaduzzaman&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iasaduzzaman&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-</div>
-
----
-
-### 🌱 `volunteer.work`
-
-```
-[Jun 2022 → Present]  AIUB Computer Club
-  └─ Technical & soft-skills training → 1000+ students impacted
-
-[Jun 2024 → Jun 2025]  Campus Ambassador @ YouthBees
-  └─ Events & workshops across 30+ universities across Bangladesh
-```
-
----
-
-### 📚 `publications[]`
-
-```bibtex
-@book{asaduzzaman2026,
-  title     = {A Machine Learning Approach to Profiling and
-               Predicting Bank Customer Behavior},
-  author    = {Md Asaduzzaman},
-  year      = {2026},
-  status    = {Work in Progress},
-  tech      = {Python, Scikit-learn, TensorFlow, Machine Learning}
-}
-```
-
----
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   "Programs must be written for people to read, and only      │
-│    incidentally for machines to execute."                      │
-│                                          — Harold Abelson      │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://komarev.com/ghpvc/?username=iasaduzzaman&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
-
-**Thanks for stopping by — let's build something together 🚀**
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zasad)
 
 </div>
