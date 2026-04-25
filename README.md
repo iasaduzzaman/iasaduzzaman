@@ -153,36 +153,6 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/><br/>
-      <b>Handle:</b> _Asaduzzaman_<br/>
-      <b>Max Rating:</b> ⭐ 1114<br/>
-      🏅 Top 25%
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/><br/>
-      <b>Handle:</b> Asaduzzaman12<br/>
-      <b>Max Rating:</b> ⭐ 1327<br/>
-      🏅 Top 25%
-    </td>
-    <td align="center" width="220">
-      🧩 <b>600+</b> Problems Solved<br/>
-      🎯 <b>40+</b> Contests Participated<br/>
-      🌍 Meta Hacker Cup <b>2023, 2024, 2025</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -202,7 +172,7 @@
       <h3>📝 Blog Website</h3>
       <p>Full-featured blogging platform with role-based access, CRUD, likes & comments using a <b>code-first</b> database approach.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
       </p>
     </td>
